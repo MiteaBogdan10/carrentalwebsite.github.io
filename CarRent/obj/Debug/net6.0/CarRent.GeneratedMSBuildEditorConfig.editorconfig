@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CarRent
+build_property.RootNamespace = CarRent
+build_property.ProjectDir = c:\Users\Bogdan\Desktop\Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii\CarRent\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Bogdan\Desktop\Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii\CarRent
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Cars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Cars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Cars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Cars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Cars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Reservations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Reservations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Reservations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Reservations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Reservations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Rides/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmlkZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Rides/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmlkZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Rides/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmlkZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Rides/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmlkZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Rides/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmlkZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bogdan/Desktop/Mitea_Bogdan_Tiberiu_CR3.2A-Site inchirieri masinii/CarRent/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8ot2w4m3sh
